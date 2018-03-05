@@ -3,3 +3,4 @@ Wagner Moura
 Didi Moco
 Antonio Fagundes
 Dede
+Hermes
