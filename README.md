@@ -6,3 +6,4 @@ Dede
 Hermes
 Zacarias
 Ivete da massa
+Claudinha Leite
