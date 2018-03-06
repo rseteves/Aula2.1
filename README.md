@@ -7,3 +7,4 @@ Hermes
 Zacarias
 Ivete da massa
 Netinho
+Claudinha Leite
